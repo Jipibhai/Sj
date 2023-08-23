@@ -1,11 +1,3 @@
-<style type="text/css">
-
-
-
-
-
-
-
 #collect fieldset:not(:first-of-type) {
 display: none;
 }
@@ -84,6 +76,6 @@ padding-top:1px;
 margin-top: 4%;
 }
 }
-</style>
+
 
 
