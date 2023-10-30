@@ -82,8 +82,7 @@ def hero():
     while(y):
         clear()
         system(banner)
-        print(f"{red}Enter ",newperiod," Bcone Price :")
-        print(f"{yellow}Enter ",newperiod," Bcone Price :")
+      
         current=input()
         current=int(current)
         chalo()
